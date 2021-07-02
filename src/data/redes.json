@@ -1,0 +1,38 @@
+[
+  {
+    "id":"1",
+    "link": "https://es-la.facebook.com",
+    "imagen": "./images/facebook.svg",
+    "name": "facebook"
+  },
+  {
+    "id":"2",
+    "link": "https://www.instagram.com",
+    "imagen": "./images/instagram.svg",
+    "name": "instagram"
+  },
+  {
+    "id":"3",
+    "link": "https://mx.linkedin.com",
+    "imagen": "./images/linkedin.svg",
+    "name": "linkedin"
+  },
+  {
+    "id":"4",
+    "link": "https://www.tiktok.com",
+    "imagen": "./images/tiktok.svg",
+    "name": "tiktok"
+  },
+  {
+    "id":"5",
+    "link": "https://twitter.com",
+    "imagen": "./images/twitter.svg",
+    "name": "twitter"
+  },
+  {
+    "id":"6",
+    "link": "https://www.youtube.com",
+    "imagen": "./images/youtube.svg",
+    "name": "youtube"
+  }
+]

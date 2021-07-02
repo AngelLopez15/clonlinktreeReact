@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "link": "https://es-la.facebook.com",
+    "bgcolor": "#368BCA",
+    "textColor": "white",
+    "imagen": "https://cdn.pixabay.com/photo/2017/10/07/15/27/wolf-2826741_960_720.jpg",
+    "textAlt": "foto de lobo",
+    "textButton": "facebook"
+  },
+  {
+    "id": "2",
+    "link": "https://www.instagram.com",
+    "bgcolor": "#368BCA",
+    "textColor": "white",
+    "imagen": "https://cdn.pixabay.com/photo/2015/04/16/10/19/wolf-725380_960_720.jpg",
+    "textAlt": "foto de lobo",
+    "textButton": "Instagram"
+  },
+  {
+    "id": "3",
+    "link": "https://mx.linkedin.com",
+    "bgcolor": "#368BCA",
+    "textColor": "white",
+    "imagen": "https://cdn.pixabay.com/photo/2019/09/17/14/24/wolf-4483675_960_720.jpg",
+    "textAlt": "foto de lobo",
+    "textButton": "linkedin"
+  },
+  {
+    "id": "4",
+    "link": "https://www.tiktok.com",
+    "bgcolor": "#368BCA",
+    "textColor": "white",
+    "imagen": "https://cdn.pixabay.com/photo/2012/10/25/23/52/wolf-62898_960_720.jpg",
+    "textAlt": "foto de lobo",
+    "textButton": "TikTok"
+  }
+]
